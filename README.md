@@ -6,7 +6,7 @@ This is a Discord bot that allows users to create support tickets through an int
 
 To get started, clone the repository using the following command:
 
-git clone https://github.com/yourusername/support-ticket-bot.git
+git clone [https://github.com/yourusername/support-ticket-bot.git](https://github.com/Safe-Development/Discord-Basic-Ticket-System.git)
 
 Navigate into the project directory:
 
